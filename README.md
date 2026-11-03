@@ -28,7 +28,7 @@ This workflow handles that first pass automatically:
 - Routine enquiries get a short, on-brand reply that invites the sender to a free 45-minute Signal Session.
 
 > [!NOTE]
-> The triage model never writes replies, and the reply model never sees the raw email instructions. This separation is the main protection against prompt injection.
+
 
 ## Features
 
