@@ -179,8 +179,6 @@ NERV MEDIA
 5. **Test** by sending yourself an email and checking the execution log.
 6. **Activate** the workflow.
 
-> [!WARNING]
-> Do not commit real credentials, API keys or personal email addresses to a public repository. Credentials in an n8n export are stored as references, but check the JSON before publishing.
 
 ## Data Table Schema
 
@@ -231,6 +229,4 @@ Status values: `New`, `Needs Human`, `Spam`, `Replied`.
 
 Issues and pull requests are welcome. For a change to a prompt or the routing logic, describe the email that behaved wrongly (with personal details removed) and the result you expected.
 
-## License
 
-Released under the MIT License. Add a `LICENSE` file to the repository, or change this section and the badge if you prefer another license.
