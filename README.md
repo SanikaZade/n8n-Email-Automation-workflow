@@ -16,25 +16,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Routing Rules](#routing-rules)
-- [Triage Output](#triage-output)
-- [Example Scenarios](#example-scenarios)
-- [Safety Design](#safety-design)
-- [Quick Start](#quick-start)
-- [Data Table Schema](#data-table-schema)
-- [Customizing](#customizing)
-- [Troubleshooting](#troubleshooting)
-- [Known Limitations](#known-limitations)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Overview
 
