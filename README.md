@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # NERV MEDIA Email Automation
@@ -216,7 +217,8 @@ Status values: `New`, `Needs Human`, `Spam`, `Replied`.
 
 ## Repository Structure
 
-```
+```![Uploading Screenshot 2026-10-16 114829.png…]()
+
 .
 ├── Email Automation workflow.json   # n8n workflow export
 └── README.md
