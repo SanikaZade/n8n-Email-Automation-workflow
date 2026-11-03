@@ -38,6 +38,8 @@ This workflow handles that first pass automatically:
 - **Loop prevention:** mail sent from the company's own address is dropped before analysis.
 - **Multilingual input:** emails in Hindi, Marathi, Gujarati, Hinglish or English are understood. Replies are always in simple English.
 
+## n8n Flow chart 
+
 <img width="1716" height="592" alt="Screenshot 2026-10-16 114829" src="https://github.com/user-attachments/assets/38bd57b0-75fa-4a62-ac2f-487bf2d52320" />
 
 ## How It Works
