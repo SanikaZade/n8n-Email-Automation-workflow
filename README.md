@@ -27,9 +27,6 @@ This workflow handles that first pass automatically:
 - Anything sensitive (refunds, complaints, price requests, meetings, existing clients) goes to a person, not to a bot.
 - Routine enquiries get a short, on-brand reply that invites the sender to a free 45-minute Signal Session.
 
-> [!NOTE]
-
-
 ## Features
 
 - **Structured triage:** category, priority, sentiment, language, summary and a human-needed flag, enforced by a JSON schema.
